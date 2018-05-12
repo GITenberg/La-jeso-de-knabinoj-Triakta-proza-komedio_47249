@@ -1,4 +1,8 @@
 _repo: La-jeso-de-knabinoj-Triakta-proza-komedio_47249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47249-h/images/cover.jpg
 creator:
   author:
     agent_name: Fernández de Moratín, Leandro
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44209
     wikipedia: http://en.wikipedia.org/wiki/Leandro_Fern%C3%A1ndez_de_Morat%C3%ADn
 description: 'Translation of: El sí de las niñas'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47249#La-jeso-de-knabinoj-Triakta-proza-komedio
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2014-10-31'
 gutenberg_type: Text
